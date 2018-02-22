@@ -25,7 +25,7 @@
         {
             "type": "git",
             "url": "https://github.com/mihai-ionescu/uri"
-        },
+        }
     ],
     "require": {
         "php": ">=7.0",
@@ -33,7 +33,7 @@
         "amphp/byte-stream": "^1.1.6",
         "amphp/socket": "^0.10.5",
         "amphp/uri": "dev-tvg",
-        "amphp/file": "^0.2 || ^0.3",
+        "amphp/file": "dev-tvg",
         "kelunik/certificate": "^1.1"
     },
     "require-dev": {
