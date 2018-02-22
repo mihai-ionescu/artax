@@ -25,9 +25,9 @@
         "php": ">=7.0",
         "amphp/amp": "^2",
         "amphp/byte-stream": "^1.1.6",
-        "amphp/socket": "^0.10.5",
-        "amphp/uri": "^0.1",
-        "amphp/file": "^0.2 || ^0.3",
+        "amphp/socket": "dev-master",
+        "amphp/uri": "dev-master",
+        "amphp/file": "dev-master",
         "kelunik/certificate": "^1.1"
     },
     "require-dev": {
